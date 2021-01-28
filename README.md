@@ -1,1 +1,1 @@
-# moose-code
+This repository is for analytics projects.
